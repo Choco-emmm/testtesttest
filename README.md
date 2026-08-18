@@ -7,3 +7,5 @@ Fixture repository for Qgents Worker, Diff, Commit, Push, and MR_FIRST delivery 
 ```text
 hello.txt must contain: hello qgents
 ```
+
+frontend multi-repo test
